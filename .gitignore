@@ -13,7 +13,7 @@ venv/          # Virtual environment for testing
 .vscode/       # Ms. Rodriguez uses VS Code
 .idea/         # Mr. Chen uses PyCharm
 
-# Local development & testing
+#Local development & testing
 instance/
 .pytest_cache/
 .coverage      # Test coverage reports
